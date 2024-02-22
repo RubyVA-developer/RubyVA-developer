@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-#### My name is John Smith - Super Elite Secret Agent
+#### My name is Ivan and I am Web Developer.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/otaku-niisan?theme=nord&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RubyVA?theme=nord&font=Karla&ext=heatmap)
 
-![GitHub stats](https://github-readme-stats-cyan-xi-95.vercel.app/api?username=otaku-niisan&show_icons=true&theme=nord)
+![GitHub stats](https://github-readme-stats-cyan-xi-95.vercel.app/api?username=RubyVA-developer&show_icons=true&theme=nord)
 
 ![Codewars](https://github.r2v.ch/codewars?user=otaku-niisan&theme=nightowl)
