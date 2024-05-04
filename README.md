@@ -6,4 +6,4 @@
 
 ![GitHub stats](https://github-readme-stats-cyan-xi-95.vercel.app/api?username=RubyVA-developer&show_icons=true&theme=nord)
 
-![Codewars](https://github.r2v.ch/codewars?user=otaku-niisan&theme=nightowl)
+![Codewars](https://github.r2v.ch/codewars?user=rusi-protiv-yascherov&theme=nightowl)
